@@ -2,7 +2,7 @@
     "title": "Stackbit Exto Theme",
     "path_prefix": "/",
     "color_scheme": "light",
-    "accent_color": "",
+    "accent_color": "#FFE82A",
     "header": {
         "title": "ANDRÉS VANEGAS FANDIÑO",
         "has_nav": true,
